@@ -40,10 +40,3 @@ p{
     padding-left: 10px;
     padding-right: 10px;
 }
-@media (max-width: 350px) {
-    .box1{
-        height: 700px;
-        width: 500px;
-    }
-    }
-}
